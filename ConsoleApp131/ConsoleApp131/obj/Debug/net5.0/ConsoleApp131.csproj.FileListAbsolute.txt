@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\ConsoleApp131\ConsoleApp131\bin\Debug\net5.0\ConsoleApp131.exe
+C:\Users\user\source\repos\ConsoleApp131\ConsoleApp131\bin\Debug\net5.0\ConsoleApp131.deps.json
+C:\Users\user\source\repos\ConsoleApp131\ConsoleApp131\bin\Debug\net5.0\ConsoleApp131.runtimeconfig.json
+C:\Users\user\source\repos\ConsoleApp131\ConsoleApp131\bin\Debug\net5.0\ConsoleApp131.runtimeconfig.dev.json
+C:\Users\user\source\repos\ConsoleApp131\ConsoleApp131\bin\Debug\net5.0\ConsoleApp131.dll
+C:\Users\user\source\repos\ConsoleApp131\ConsoleApp131\bin\Debug\net5.0\ref\ConsoleApp131.dll
+C:\Users\user\source\repos\ConsoleApp131\ConsoleApp131\bin\Debug\net5.0\ConsoleApp131.pdb
+C:\Users\user\source\repos\ConsoleApp131\ConsoleApp131\obj\Debug\net5.0\ConsoleApp131.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ConsoleApp131\ConsoleApp131\obj\Debug\net5.0\ConsoleApp131.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ConsoleApp131\ConsoleApp131\obj\Debug\net5.0\ConsoleApp131.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ConsoleApp131\ConsoleApp131\obj\Debug\net5.0\ConsoleApp131.AssemblyInfo.cs
+C:\Users\user\source\repos\ConsoleApp131\ConsoleApp131\obj\Debug\net5.0\ConsoleApp131.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ConsoleApp131\ConsoleApp131\obj\Debug\net5.0\ConsoleApp131.dll
+C:\Users\user\source\repos\ConsoleApp131\ConsoleApp131\obj\Debug\net5.0\ref\ConsoleApp131.dll
+C:\Users\user\source\repos\ConsoleApp131\ConsoleApp131\obj\Debug\net5.0\ConsoleApp131.pdb
+C:\Users\user\source\repos\ConsoleApp131\ConsoleApp131\obj\Debug\net5.0\ConsoleApp131.genruntimeconfig.cache
